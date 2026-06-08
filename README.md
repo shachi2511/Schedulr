@@ -2,7 +2,6 @@
 
 Stop manually figuring out when to do things. Add your tasks, add your commitments, and Schedulr builds your week for you.
 
-**Live**: http://schedulr-frontend-shachi.s3-website.us-east-2.amazonaws.com
 
 ---
 
