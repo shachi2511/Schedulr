@@ -11,7 +11,7 @@ Stop manually figuring out when to do things. Add your tasks, add your commitmen
 
 ## How it works
 
-You give it tasks — with a deadline, a priority, and how long they'll take. You tell it what's already on your calendar. It runs a greedy interval scheduling algorithm, slots everything in without conflicts, and shows you your week.
+You give it tasks, with a deadline, a priority, and how long they'll take. You tell it what's already on your calendar. It runs a greedy interval scheduling algorithm, slots everything in without conflicts, and shows you your week.
 
 If something can't fit before its deadline, it tells you instead of pretending everything is fine.
 
